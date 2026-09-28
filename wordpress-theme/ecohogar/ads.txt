@@ -1,0 +1,12 @@
+# ads.txt de EJEMPLO para EcoHogar
+# ---------------------------------------------------------------
+# CÓMO USARLO:
+# 1. Solicita y obtén la aprobación de Google AdSense.
+# 2. Copia ESTE archivo a la RAÍZ de tu instalación de WordPress,
+#    de modo que quede accesible en https://tudominio.com/ads.txt
+#    (NO sirve dejarlo dentro de la carpeta del theme).
+# 3. Reemplaza pub-0000000000000000 por tu ID de editor real
+#    (lo encuentras en AdSense > Cuenta > Información de la cuenta).
+# Más info: https://support.google.com/adsense/answer/121716345
+
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
