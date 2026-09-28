@@ -38,7 +38,7 @@ Paquete completo de implementación en WordPress: estrategia SEO, theme custom l
 
 * **Sin page builders ni dependencias:** solo WordPress + este theme. Rápido y fácil de mantener.
 * **Contenido honesto:** veredicto arriba, pros/contras reales, precios marcados como orientativos con fecha. Lo no verificado va marcado `[VERIFICAR]`: no publiques sin resolverlo.
-* **SEO desde el día uno:** JSON-LD (Review, ItemList, FAQ), Open Graph, URLs limpias (`/resena/...`), enlazado interno planificado en `plan/`.
+* **SEO desde el día uno:** JSON-LD (Review, ItemList, FAQ), Open Graph, URLs limpias (`/resenas/...`), enlazado interno planificado en `plan/`.
 
 ## Licencia
 
